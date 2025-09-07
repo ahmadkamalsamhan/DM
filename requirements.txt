@@ -1,2 +1,5 @@
 streamlit
+pandas
+openpyxl
+tqdm
 git+https://github.com/ahmadkamalsamhan/Document-matcher--New-Sections-Added
