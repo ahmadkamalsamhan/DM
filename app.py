@@ -1,9 +1,6 @@
 import streamlit as st
-from myapp import run_app  # Comes from private repo
 
-def main():
-    st.title("Welcome to My Streamlit App")
-    run_app.run_app()
+st.title("Document Matcher Public Launcher")
 
-if __name__ == "__main__":
-    main()
+# Example placeholder for your private repo logic
+st.write("This is the public launcher. Real logic stays private.")
